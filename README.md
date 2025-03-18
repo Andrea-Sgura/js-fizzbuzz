@@ -10,3 +10,6 @@ scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
 
+1 - Inserisco 2 variabili che contengono i numeri 1 e 100 e le inizializzo;
+2 - Inserisco le 2 variabili fizz e buzz contenenti i numeri 3 e 5 e le inizializzo;
+3 - Creo il ciclo "for" dove inserisco le variabili per risolvere il problema;
